@@ -7,11 +7,10 @@ welcome to git
 list
 product
 Mobile 
-tshirts
-
+clothing --->tshirts,jeans
+furniture
 <p>adding a new branche bug123<p>
 <p>change from remote repo<p>
 
-<p>change from remote repo to check fetch<p>
 </HTML>
 

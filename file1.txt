@@ -6,7 +6,7 @@ welcome to git
 <body>this is the home page</body>
 list
 product
-Home decor
+Home decor--> wall paintings,chairs
 clothing --->tshirts,jeans
 furniture
 
